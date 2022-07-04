@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\CarPaarkingBill\bin\Debug\net6.0\CarPaarkingBill.exe
+C:\Users\Administrator\source\repos\CarPaarkingBill\bin\Debug\net6.0\CarPaarkingBill.deps.json
+C:\Users\Administrator\source\repos\CarPaarkingBill\bin\Debug\net6.0\CarPaarkingBill.runtimeconfig.json
+C:\Users\Administrator\source\repos\CarPaarkingBill\bin\Debug\net6.0\CarPaarkingBill.dll
+C:\Users\Administrator\source\repos\CarPaarkingBill\bin\Debug\net6.0\CarPaarkingBill.pdb
+C:\Users\Administrator\source\repos\CarPaarkingBill\obj\Debug\net6.0\CarPaarkingBill.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CarPaarkingBill\obj\Debug\net6.0\CarPaarkingBill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CarPaarkingBill\obj\Debug\net6.0\CarPaarkingBill.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CarPaarkingBill\obj\Debug\net6.0\CarPaarkingBill.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CarPaarkingBill\obj\Debug\net6.0\CarPaarkingBill.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CarPaarkingBill\obj\Debug\net6.0\CarPaarkingBill.dll
+C:\Users\Administrator\source\repos\CarPaarkingBill\obj\Debug\net6.0\refint\CarPaarkingBill.dll
+C:\Users\Administrator\source\repos\CarPaarkingBill\obj\Debug\net6.0\CarPaarkingBill.pdb
+C:\Users\Administrator\source\repos\CarPaarkingBill\obj\Debug\net6.0\CarPaarkingBill.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\CarPaarkingBill\obj\Debug\net6.0\ref\CarPaarkingBill.dll
